@@ -107,7 +107,7 @@ button {
   margin: 0 0 20px;
 }
 
-#new-task {
+.input-text_new {
   width: 318px;
 }
 
